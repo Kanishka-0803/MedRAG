@@ -1,0 +1,11 @@
+langchain==0.3.27
+langchain-community==0.3.27
+langchain-huggingface
+sentence-transformers
+chromadb==1.0.15
+pymupdf==1.26.3
+huggingface-hub
+transformers
+llama-cpp-python==0.2.45
+pandas
+numpy==1.26.4
